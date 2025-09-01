@@ -712,6 +712,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Built with ❤️ by the Polyglot System Team**
-
 *Pushing the boundaries of multi-language computing and high-performance systems.*
